@@ -1,0 +1,205 @@
+participant,variant,text,accuracy,disfl,no,stimuli
+Urzhan_Participant 1,1,1,0.66,0.56,1,yes
+Urzhan_Participant 1,1,2,0.62,0.4,0.75,yes
+Urzhan_Participant 1,1,3,1,,,no
+Urzhan_Participant 1,1,4,0.9,,,no
+Urzhan_Participant 2,2,1,0.66,,,no
+Urzhan_Participant 2,2,2,0.38,,,no
+Urzhan_Participant 2,2,3,0.7,0.8,0.6,yes
+Urzhan_Participant 2,2,4,0.9,1,0.8,yes
+Urzhan_Participant 3,1,1,0.42,0.55,0,yes
+Urzhan_Participant 3,1,2,0.54,0.4,0.62,yes
+Urzhan_Participant 3,1,3,0.5,,,no
+Urzhan_Participant 3,1,4,0.5,,,no
+Urzhan_Participant 4,1,1,0.58,0.66,0.33,yes
+Urzhan_Participant 4,1,2,0.69,0.4,0.87,yes
+Urzhan_Participant 4,1,3,0.7,,,no
+Urzhan_Participant 4,1,4,0.8,,,no
+Urzhan_Participant 5,1,1,0.58,0.55,0.66,yes
+Urzhan_Participant 5,1,2,0.46,0.4,0.5,yes
+Urzhan_Participant 5,1,3,0.7,,,no
+Urzhan_Participant 5,1,4,0.6,,,no
+Urzhan_Participant 6,2,1,0.25,,,no
+Urzhan_Participant 6,2,2,0.92,,,no
+Urzhan_Participant 6,2,3,0.9,1,0.8,yes
+Urzhan_Participant 6,2,4,0.9,0.8,1,yes
+Aizhan - Participant 1,1,1,0.25,0.2,0.5,yes
+Aizhan - Participant 1,1,2,0.69,0.5,0.8,yes
+Aizhan - Participant 1,1,3,0.5,,,no
+Aizhan - Participant 1,1,4,0.8,,,no
+Aizhan - Participant 2,1,1,0.3,0.3,0.3,yes
+Aizhan - Participant 2,1,2,0.9,0.9,0.9,yes
+Aizhan - Participant 2,1,3,0.6,,,no
+Aizhan - Participant 2,1,4,0.8,,,no
+Aizhan - Participant 3,1,1,0.2,0.3,0,yes
+Aizhan - Participant 3,1,2,0.6,0.3,0.75,yes
+Aizhan - Participant 3,1,3,0.3,,,no
+Aizhan - Participant 3,1,4,0.45,,,no
+Aizhan - Participant 4,1,1,0.4,0.4,0.2,yes
+Aizhan - Participant 4,1,2,0.9,0.9,0.9,yes
+Aizhan - Participant 4,1,3,1,,,no
+Aizhan - Participant 4,1,4,0.9,,,no
+Aizhan - Participant 5,1,1,0.8,0.05,0.2,yes
+Aizhan - Participant 5,1,2,0.6,0.4,0.75,yes
+Aizhan - Participant 5,1,3,0.75,,,no
+Aizhan - Participant 5,1,4,0.6,,,no
+Aizhan - Participant 6,2,1,0.125,,,no
+Aizhan - Participant 6,2,2,0.6,,,no
+Aizhan - Participant 6,2,3,0.55,0.9,0.2,yes
+Aizhan - Participant 6,2,4,0.8,0.9,0.7,yes
+Aizhan - participant 7,2,1,0.5,,,no
+Aizhan - participant 7,2,2,0.7,,,no
+Aizhan - participant 7,2,3,0.6,0.8,0.4,yes
+Aizhan - participant 7,2,4,0.3,0.3,0.3,yes
+Aizhan - participant 8,2,1,0.25,,,no
+Aizhan - participant 8,2,2,0.4,,,no
+Aizhan - participant 8,2,3,0.45,0.5,0.4,yes
+Aizhan - participant 8,2,4,0.85,0.8,0.9,yes
+Aizhan - participant 9,2,1,0.25,,,no
+Aizhan - participant 9,2,2,0.65,,,no
+Aizhan - participant 9,2,3,0.6,0.8,0.4,yes
+Aizhan - participant 9,2,4,0.6,0.6,0.6,yes
+Kamila_01,2,1,0.6,,,no
+Kamila_01,2,2,0.7,,,no
+Kamila_01,2,3,0.85,0.9,0.8,yes
+Kamila_01,2,4,0.75,0.8,0.7,yes
+Kamila_02,2,1,0.625,,,no
+Kamila_02,2,2,0.66,,,no
+Kamila_02,2,3,0.8,1,0.6,yes
+Kamila_02,2,4,0.7,0.8,0.6,yes
+Kamila_03,1,1,0.42,0.45,0.33,yes
+Kamila_03,1,2,0.93,0.8,1,yes
+Kamila_03,1,3,0.75,,,no
+Kamila_03,1,4,0.7,,,no
+Kamila_04,1,1,0.38,0.55,0.33,yes
+Kamila_04,1,2,0.69,0.6,0.75,yes
+Kamila_04,1,3,0.5,,,no
+Kamila_04,1,4,0.55,,,no
+Kamila_05,1,1,0.33,0.33,0.33,yes
+Kamila_05,1,2,0.77,0.4,1,yes
+Kamila_05,1,3,0.6,,,no
+Kamila_05,1,4,0.7,,,no
+Kamila_06,2,1,0.38,,,no
+Kamila_06,2,2,0.65,,,no
+Kamila_06,2,3,0.7,0.6,0.8,yes
+Kamila_06,2,4,0.75,0.7,0.8,yes
+Kamila_07,2,1,0.83,,,no
+Kamila_07,2,2,0.77,,,no
+Kamila_07,2,3,0.85,0.9,0.8,yes
+Kamila_07,2,4,0.7,0.6,0.8,yes
+Kamila_08,2,1,0.71,,,no
+Kamila_08,2,2,1,,,no
+Kamila_08,2,3,0.85,1,0.7,yes
+Kamila_08,2,4,0.95,0.9,1,yes
+Kamila_09,1,1,0.42,0.33,0.66,yes
+Kamila_09,1,2,0.54,0.4,0.625,yes
+Kamila_09,1,3,0.7,,,no
+Kamila_09,1,4,0.75,,,no
+Alina_Participant1,2,1,0.7,,,no
+Alina_Participant1,2,2,0.9,,,no
+Alina_Participant1,2,3,0.6,1,0.7,yes
+Alina_Participant1,2,4,0.4,0.7,0.5,yes
+Alina_Participant2,2,1,0.9,,,no
+Alina_Participant2,2,2,0.8,,,no
+Alina_Participant2,2,3,0.9,0.9,0.9,yes
+Alina_Participant2,2,4,0.9,0.8,0.7,yes
+Alina_Participant3,1,1,0.9,0.33,0.8,yes
+Alina_Participant3,1,2,0.7,0.6,0.8,yes
+Alina_Participant3,1,3,0.9,,,no
+Alina_Participant3,1,4,0.8,,,no
+Alina_Participant4,1,1,0.8,0.33,0.8,yes
+Alina_Participant4,1,2,0.6,0.6,0.7,yes
+Alina_Participant4,1,3,0.2,,,no
+Alina_Participant4,1,4,0.9,,,no
+Alina_Participant5,1,1,0.7,0.4,0.33,yes
+Alina_Participant5,1,2,0.5,0.2,0.4,yes
+Alina_Participant5,1,3,0.8,,,no
+Alina_Participant5,1,4,0.8,,,no
+Alina_Participant6,2,1,0.8,,,no
+Alina_Participant6,2,2,0.6,,,no
+Alina_Participant6,2,3,0.6,0.33,0.7,yes
+Alina_Participant6,2,4,0.7,1,0.66,yes
+Alina_Participant7,2,1,0.8,,,no
+Alina_Participant7,2,2,0.2,,,no
+Alina_Participant7,2,3,0.9,0.8,0.66,yes
+Alina_Participant7,2,4,0.8,0.7,1,yes
+Alina_Participant8,1,1,1,1,1,yes
+Alina_Participant8,1,2,0.6,0.5,0.33,yes
+Alina_Participant8,1,3,0.9,,,no
+Alina_Participant8,1,4,0.8,,,no
+Alina_Participant9,1,1,0.9,0.8,0.9,yes
+Alina_Participant9,1,2,0.9,0.7,1,yes
+Alina_Participant9,1,3,0.9,,,no
+Alina_Participant9,1,4,0.9,,,no
+Alina_Participant10,2,1,0.3,,,no
+Alina_Participant10,2,2,0.2,,,no
+Alina_Participant10,2,3,0.5,0.33,0.6,yes
+Alina_Participant10,2,4,0.7,0.9,0.8,yes
+Ayana_participant 1,2,1,0.66,,,no
+Ayana_participant 1,2,2,1,,,no
+Ayana_participant 1,2,3,0.8,0.8,0.8,yes
+Ayana_participant 1,2,4,0.7,0.8,0.6,yes
+Ayana_participant 2,1,1,0.25,0.33,0,yes
+Ayana_participant 2,1,2,1,1,1,yes
+Ayana_participant 2,1,3,1,,,no
+Ayana_participant 2,1,4,0.8,,,no
+Ayana_participant 3,1,1,0.41,0.44,0.33,yes
+Ayana_participant 3,1,2,0.76,0.6,0.875,yes
+Ayana_participant 3,1,3,0.8,,,no
+Ayana_participant 3,1,4,0.8,,,no
+Ayana_participant 4,1,1,0,0,0,yes
+Ayana_participant 4,1,2,0.538,0.4,0.625,yes
+Ayana_participant 4,1,3,0.4,,,no
+Ayana_participant 4,1,4,0.7,,,no
+Ayana_participant 5,2,1,0,,,no
+Ayana_participant 5,2,2,0.385,,,no
+Ayana_participant 5,2,3,0.7,0.8,0.6,yes
+Ayana_participant 5,2,4,0.7,0.8,0.6,yes
+Ayana_participant 6,1,1,0.15,0.11,0.33,yes
+Ayana_participant 6,1,2,0.538,0.4,0.625,yes
+Ayana_participant 6,1,3,0.8,,,no
+Ayana_participant 6,1,4,0.6,,,no
+Ayana_participant 7,2,1,0.5,,,no
+Ayana_participant 7,2,2,0.769,,,no
+Ayana_participant 7,2,3,0.9,0.8,1,yes
+Ayana_participant 7,2,4,0.8,0.8,0.8,yes
+Lazzat_number1,1,1,0.08,0.11,0,yes
+Lazzat_number1,1,2,0.69,0.6,0.75,yes
+Lazzat_number1,1,3,0.2,,,no
+Lazzat_number1,1,4,0.7,,,no
+Lazzat_number2,1,1,0.16,0.22,0,yes
+Lazzat_number2,1,2,1,1,1,yes
+Lazzat_number2,1,3,0.9,,,no
+Lazzat_number2,1,4,0.8,,,no
+Lazzat_number3,2,1,0.25,,,no
+Lazzat_number3,2,2,0.76,,,no
+Lazzat_number3,2,3,0.5,0.4,0.6,yes
+Lazzat_number3,2,4,0.4,0.4,0.4,yes
+Lazzat_number4,1,1,0.16,0.22,0,yes
+Lazzat_number4,1,2,0.8,0.8,0.81,yes
+Lazzat_number4,1,3,0.6,,,no
+Lazzat_number4,1,4,0.45,,,no
+Lazzat_number5,1,1,0.25,0.11,0.66,yes
+Lazzat_number5,1,2,0.76,0.8,0.75,yes
+Lazzat_number5,1,3,0.8,,,no
+Lazzat_number5,1,4,0.6,,,no
+Lazzat_number6,1,1,0.16,0.11,0.33,yes
+Lazzat_number6,1,2,0.84,0.8,0.87,yes
+Lazzat_number6,1,3,0.55,,,no
+Lazzat_number6,1,4,0.7,,,no
+Lazzat_number7,2,1,0.41,,,no
+Lazzat_number7,2,2,0.76,,,no
+Lazzat_number7,2,3,0.7,0.6,0.8,yes
+Lazzat_number7,2,4,0.9,0.8,1,yes
+Lazzat_number8,2,1,0.25,,,no
+Lazzat_number8,2,2,0.53,,,no
+Lazzat_number8,2,3,1,1,1,yes
+Lazzat_number8,2,4,0.7,0.8,0.6,yes
+Lazzat_number9,2,1,0.33,,,no
+Lazzat_number9,2,3,0.4,0.2,0.6,yes
+Lazzat_number10,2,1,0.08,,,no
+Lazzat_number10,2,3,0.7,0.6,0.8,yes
+Lazzat_number11,2,2,0.76,,,no
+Lazzat_number11,2,4,0.4,0.4,0.4,yes
+Lazzat_number12,2,2,0.9,,,no
+Lazzat_number12,2,4,0.9,0.8,0.9,yes
